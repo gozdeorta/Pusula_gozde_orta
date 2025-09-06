@@ -22,6 +22,6 @@ Amaç, veri setini temizlemek, tutarlı hale getirmek ve modellemeye hazır bir 
    - Sayısal değişkenler normalleştirildi / standartlaştırıldı   
 
 ## 📂 Dosyalar
-- `pusula_gozde_orta.ipynb` → Jupyter Notebook (EDA + Veri Ön İşleme)
+- `Pusula_Gozde_Orta.ipynb` → Jupyter Notebook (EDA + Veri Ön İşleme)
 - Veri seti  
 
